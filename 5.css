@@ -1,0 +1,52 @@
+.box{
+    position: relative;
+    height: 600px;
+    width: 380px;
+    display: inline-block;
+    margin-right: 30px;
+    margin-left: 30px;
+    box-shadow: 0 0 30px rgba(87, 86, 86, 0.5); 
+    text-align: center;
+}
+.date{
+    background-color: #6ba1f2;
+    height: 100px;
+    width: 380px;
+    position: absolute;
+}
+.textDate{
+    font-size: 30pt;
+    color: white;
+    margin-top: 25px;
+    text-align: center;
+}
+.pict1{
+    height: 280px;
+    width: 300px;
+    position: absolute;
+    margin-left: -150px;
+    margin-top: 120px;
+}
+.pict2{
+    height: 200px;
+    width: 350px;
+    position: absolute;
+    margin-left: -180px;
+    margin-top: 180px;
+}
+.pict3{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    margin-left: -140px;
+    margin-top: 140px;
+}
+.textTemp{
+    font-size: 40pt;
+    color: black;
+    margin-top: 430px;
+    margin-left: 135px;
+    position: absolute;
+    text-align: center;
+}
+

@@ -1,0 +1,46 @@
+body{
+    color: #f8f8f8;
+}
+.background{
+    background-color: #7aa3f5;
+    width: 420px;
+    height: 370px;
+    position: relative;
+    outline: 2px solid #4046ff;
+    border: 5px;
+    padding: 30px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.band{
+    width: 480px;
+    height: 1px;
+    background-color: white;
+    margin: 0 -30px;
+    outline: 2px solid #d9d9d9;
+}
+
+.button {
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    background: #ffd640;
+    border: none;
+    margin-top: 20px;
+}
+.shape{
+    width: 150px;
+    height: 5px;
+    padding:15px;
+    color:#ccc;
+    text-align: center;
+    margin-right: 20px;
+}
+.shape1{
+    width: 360px;
+    height: 5px;
+    padding:15px;
+    color:#ccc;
+    text-align: center;
+}
